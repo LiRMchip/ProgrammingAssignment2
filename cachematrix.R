@@ -1,5 +1,5 @@
 ## Ensemble of functions to compute the inverse of the matrix only when
-## needed (the inverse of the matrix is not cached)
+## needed (the inverse of the matrix is not cached).
 
 
 ## makeCacheMatrix returns a list of functions 
